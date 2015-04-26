@@ -20,7 +20,7 @@ CPU   = cortex-m0
 THUMB = YES
 
 ### Linker script for the target MCU
-LINKSCRIPT = MARY-MB.ld
+LINKSCRIPT = LPC1114FN28.ld
 
 ### Output file type (hex, bin or both) and debugger type
 OUTPUT	= hex
